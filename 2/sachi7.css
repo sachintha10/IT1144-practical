@@ -1,0 +1,51 @@
+ul{
+	list-style:none;	
+}
+a{
+	text-decoration:none;
+}
+li{
+	display:inline;
+	margin:16px;
+	color:white;
+}
+.contanier1{
+	display:flex;
+	background-color:blue;
+	border:0px solid blue;
+	padding:2px;
+	justify-content:space-between;
+	align-items:center;
+	margin:0 auto;	
+}
+.contanier2{
+	
+	background-color:black;
+	border:0px solid black;
+	padding:80px;	
+	margin:0 auto;
+
+}
+
+a:hover{
+	color:black;
+}
+
+span{
+	color:orange;
+}
+.badge{
+	background-color:orange;
+	font-size:30px;
+	font-weight:bold;
+	padding:4px 8px;
+	border:radius:4px;
+	letter-spacing:1px;
+	color:white;
+}
+h2{
+	color:white;
+}
+h4{
+	color:white;
+}
